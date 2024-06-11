@@ -1,0 +1,7 @@
+[project]
+name = "Platformer"
+version = "0.0.1"
+dynamic = ["version"]
+
+[tools.pyright]
+include = ["modules"]
